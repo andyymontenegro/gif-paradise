@@ -1,1 +1,1 @@
-# gif-paradise
+# Giftastic
